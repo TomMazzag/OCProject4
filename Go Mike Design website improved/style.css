@@ -7,6 +7,18 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.row h1 {
+    margin: 3px;
+}
+
+.col-sm-12 .row a {
+    color: white!important;
+}
+
+.col-sm-12 .row {
+    margin-bottom: 30px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -720,6 +732,7 @@ h3 {
     max-width: 800px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
+    margin-top: 20px;
 }
 
 h1 {
@@ -781,7 +794,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
