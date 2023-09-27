@@ -19,6 +19,10 @@ body {
     margin-bottom: 30px;
 }
 
+.quoteText {
+    font-size: 14px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -295,9 +299,7 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-2-services p {
-    font-size: 11px;
-}
+
 
 .navbar {
     margin-bottom: 0;
